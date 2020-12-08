@@ -1,0 +1,10 @@
+# Penser à terminer ce fichier avec une ligne vide !!
+
+# Ingorer le répertoire de construction 'work'
+work/
+
+# Ignorer les documents Word
+*.docx
+*.doc
+
+
